@@ -1,0 +1,14 @@
+@media print{
+    .sidebar, .footer, .btn, .aksiCol, form {
+        display: none;
+    }
+    
+    #print-only {
+        display: block;
+    }
+}
+/* @media screen{
+    .print-only {
+        display: none;
+    }
+} */
