@@ -1,14 +1,14 @@
 # OkaySir
 # Hi there, I'm Naufal Avrilzal Irawan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=HELLO+WORLD+;ITS+ME+N.A.I;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=HELLO+WORLD+;ITS+ME+N.A.I;Game+&+Software+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <!-- Gunakan elemen picture untuk mendukung mode gelap dan terang -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/areksaxyz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/areksaxyz/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/areksaxyz/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/NaufalAvrilzalIrawan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/NaufalAvrilzalIrawan/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/NaufalAvrilzalIrawan/NaufalAvrilzalIrawan/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -70,7 +70,7 @@
 ## 💻 Currently Working On
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Exploring+new+technologies;Learning+Advanced+DevOps;Improving+Open+Source+Projects" alt="Currently Working On" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F728&width=435&lines=Exploring+new+technologies;Learning+Game+Development;Improving+Programming+Skill" alt="Currently Working On" />
 </div>
 
 <div style="margin-top:50px" align="center">
