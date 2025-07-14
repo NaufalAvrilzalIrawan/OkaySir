@@ -18,7 +18,7 @@
 
 <p align="center">
   <!-- Tambahkan ikon Java di awal -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,PHP,laravel,mysql,java,py,git,github,gitlab,linux,vscode,figma,godot&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,mysql,java,py,git,github,gitlab,linux,vscode,figma,godot&perline=8" />
 </p>
 
 ## 📊 GitHub Analytics
