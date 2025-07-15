@@ -27,6 +27,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NaufalAvrilzalIrawan&theme=github_dark" height="200" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaufalAvrilzalIrawan&theme=github_dark&utcOffset=8" height="200" />
   </div>
+
+  <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px">
+    <img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAvrilzalIrawan&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200" />
+  </div>
 </div>
 
 <div align="center">
